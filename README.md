@@ -1,15 +1,15 @@
 # ohtu-2020-viikko1_teht14-16_ja_jatko  
-###viikko1
+### viikko1
 
   teht14-16
   
-###viikko2
+### viikko2
 
   tehtavat1-4
   
   tehtavat5-7
   
-###viikko3
+### viikko3
 
    tehtavat1-2
    
