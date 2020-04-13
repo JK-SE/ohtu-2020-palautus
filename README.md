@@ -1,7 +1,7 @@
 # ohtu-2020-viikko1_teht14-16_ja_jatko  
 ### viikko1
 
-  teht14-16
+  https://github.com/JK-SE/ohtu-2020-palautus/tree/master/viikko1/tehtavat14-16 teht14-16
   
 ### viikko2
 
