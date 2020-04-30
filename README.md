@@ -5,7 +5,7 @@
   
 ### viikko2
 
-  tehtävät 1-8 on soveltuvin osin itse repositoriossa
+  tehtävät 7-8 repositoriossa
   
   [tehtava 9](https://github.com/JK-SE/ohtu-2020-palautus/tree/master/viikko2/tehtava9/Verkkokauppa1)
   
