@@ -8,7 +8,10 @@
   tehtavat1-4
   
   tehtavat5-7
+  
   [Teht 9](https://github.com/JK-SE/ohtu-2020-palautus/tree/master/viikko2/tehtava9/Verkkokauppa1)
+  
+  [Teht 10(]https://github.com/JK-SE/ohtu-2020-palautus/tree/master/viikko2/tehtava10/Verkkokauppa1)
   
 ### viikko3
 
