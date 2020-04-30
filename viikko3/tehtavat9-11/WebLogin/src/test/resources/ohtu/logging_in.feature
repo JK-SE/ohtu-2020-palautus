@@ -10,7 +10,7 @@ Feature: As a registered user can log in with valid username/password-combinatio
         When correct username "jukka" and incorrect password "wrong" are given
         Then user is not logged in and error message is given
 
-	Scenario: nonexistent user can not login to 
-		Given login is selected
-		When  nonexistent username "kissa" and password "random" is given
-		Then  user is not logged in and error message is given
+    Scenario: nonexistent user can not login to 
+	Given login is selected
+	When  nonexistent username "kissa" and password "random" is given
+	Then  user is not logged in and error message is given
